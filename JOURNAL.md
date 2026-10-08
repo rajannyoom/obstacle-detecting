@@ -14,16 +14,20 @@
 
 ## Contents
 
-1. [2026-10-08 – I searched far all the components .](#2026-10-08-i-searched-far-all-the-components)
+1. [2026-10-08 – ![WhatsApp Image 2026-10-06 at 9.15.13 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/def435d1bf65b17905a81bf65632a3d9aa79bec597518333daa247fb2c4](#2026-10-08-whatsapp-image-2026-10-06-at-91513-amhttpshalflif)
 2. [2026-10-08 – Today I studied more and started my schematic editor. I tried to make the pcb but there are some problems. So I  did not complete it . I tried to fix it but I could not. I took the help of many AIs. T](#2026-10-08-today-i-studied-more-and-started-my-schematic-edi)
 
 ## Design
 
-### 2026-10-08 – I searched far all the components .
+### 2026-10-08 – ![WhatsApp Image 2026-10-06 at 9.15.13 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/def435d1bf65b17905a81bf65632a3d9aa79bec597518333daa247fb2c4
 
 **0.1h**
 
-I searched far all the components .
+![WhatsApp Image 2026-10-06 at 9.15.13 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/def435d1bf65b17905a81bf65632a3d9aa79bec597518333daa247fb2c48492e.jpg)
+
+I searched far all the components . I learned about where to design a pcb , what is a pcb, what are editors and etc. I chose kicad to complete my pcb.
+
+![WhatsApp Image 2026-10-06 at 9.15.13 AM 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/8f3499844def704bf2b9175bb8e221424aeefadef31ccf6af8c203991d4d3448.jpg)
 
 [Timelapse](https://lookout.hackclub.com/api/media/f48388de-f00c-477a-8e52-87daf2651026/video.mp4)
 
