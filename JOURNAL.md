@@ -14,14 +14,16 @@
 
 ## Contents
 
-1. [2026-10-08 – Work session](#2026-10-08-work-session)
+1. [2026-10-08 – I searched far all the components .](#2026-10-08-i-searched-far-all-the-components)
 2. [2026-10-08 – Work session](#2026-10-08-work-session)
 
 ## Design
 
-### 2026-10-08 – Work session
+### 2026-10-08 – I searched far all the components .
 
 **0.1h**
+
+I searched far all the components .
 
 [Timelapse](https://lookout.hackclub.com/api/media/f48388de-f00c-477a-8e52-87daf2651026/video.mp4)
 
