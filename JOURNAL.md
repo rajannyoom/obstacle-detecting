@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-08 – I searched far all the components .](#2026-10-08-i-searched-far-all-the-components)
-2. [2026-10-08 – Work session](#2026-10-08-work-session)
+2. [2026-10-08 – Today I studied more and started my schematic editor. I tried to make the pcb but there are some problems. So I  did not complete it . I tried to fix it but I could not. I took the help of many AIs. T](#2026-10-08-today-i-studied-more-and-started-my-schematic-edi)
 
 ## Design
 
@@ -27,8 +27,10 @@ I searched far all the components .
 
 [Timelapse](https://lookout.hackclub.com/api/media/f48388de-f00c-477a-8e52-87daf2651026/video.mp4)
 
-### 2026-10-08 – Work session
+### 2026-10-08 – Today I studied more and started my schematic editor. I tried to make the pcb but there are some problems. So I  did not complete it . I tried to fix it but I could not. I took the help of many AIs. T
 
 **5.67h**
+
+Today I studied more and started my schematic editor. I tried to make the pcb but there are some problems. So I  did not complete it . I tried to fix it but I could not. I took the help of many AIs. They also could not fix it up. So I end my work here incomplete but I will complete it by tomorrow. I  have to do more researches and build the pcb.
 
 [Timelapse](https://lookout.hackclub.com/api/media/2dea701b-a291-4c7f-aac8-7fbb6611199c/video.mp4)
