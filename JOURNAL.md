@@ -37,4 +37,8 @@ I searched far all the components . I learned about where to design a pcb , what
 
 Today I studied more and started my schematic editor. I tried to make the pcb but there are some problems. So I  did not complete it . I tried to fix it but I could not. I took the help of many AIs. They also could not fix it up. So I end my work here incomplete but I will complete it by tomorrow. I  have to do more researches and build the pcb.
 
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/cdd5ea00f12aaa3e1f2bf10905b5a4596e69480251abd330ae374dfd1423d738.png)
+
+![Screenshot 2026-10-09 003929](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/1db56e23199fc7ae910146d1cf1489579b995c9eb2a4a8ddf6fb3f0dfd6d868d.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/2dea701b-a291-4c7f-aac8-7fbb6611199c/video.mp4)
