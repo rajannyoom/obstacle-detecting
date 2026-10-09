@@ -16,7 +16,7 @@
 
 1. [2026-10-08 – ![WhatsApp Image 2026-10-06 at 9.15.13 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/def435d1bf65b17905a81bf65632a3d9aa79bec597518333daa247fb2c4](#2026-10-08-whatsapp-image-2026-10-06-at-91513-amhttpshalflif)
 2. [2026-10-08 – Today I studied more and started my schematic editor. I tried to make the pcb but there are some problems. So I  did not complete it . I tried to fix it but I could not. I took the help of many AIs. T](#2026-10-08-today-i-studied-more-and-started-my-schematic-edi)
-3. [2026-10-09 – Work session](#2026-10-09-work-session)
+3. [2026-10-09 – I re designed my schematic and fixed up all the errors. I  studied more came to know about footprints and more. How to use connectors i know now. After a 2.75hrs work I am finally able to bring all th](#2026-10-09-i-re-designed-my-schematic-and-fixed-up-all-the-e)
 
 ## Design
 
@@ -44,8 +44,14 @@ Today I studied more and started my schematic editor. I tried to make the pcb bu
 
 [Timelapse](https://lookout.hackclub.com/api/media/2dea701b-a291-4c7f-aac8-7fbb6611199c/video.mp4)
 
-### 2026-10-09 – Work session
+### 2026-10-09 – I re designed my schematic and fixed up all the errors. I  studied more came to know about footprints and more. How to use connectors i know now. After a 2.75hrs work I am finally able to bring all th
 
 **2.75h**
+
+I re designed my schematic and fixed up all the errors. I  studied more came to know about footprints and more. How to use connectors i know now. After a 2.75hrs work I am finally able to bring all the components to the pcb editor. I am still uploading the picture of the pcb  incomplete.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/1b79535cfabb404b31114cee67fa7f869f7a5a562c05996ae71f4fe1e5a47908.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/7187a4260184529e3a5c1ec8f61ceff58af5789e8471615d3e915d3330bef932.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/65c0a7ed-f944-4010-b6a7-a9533b3445ea/video.mp4)
