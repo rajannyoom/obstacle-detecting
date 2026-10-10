@@ -17,7 +17,7 @@
 1. [2026-10-08 – ![WhatsApp Image 2026-10-06 at 9.15.13 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/def435d1bf65b17905a81bf65632a3d9aa79bec597518333daa247fb2c4](#2026-10-08-whatsapp-image-2026-10-06-at-91513-amhttpshalflif)
 2. [2026-10-08 – Today I studied more and started my schematic editor. I tried to make the pcb but there are some problems. So I  did not complete it . I tried to fix it but I could not. I took the help of many AIs. T](#2026-10-08-today-i-studied-more-and-started-my-schematic-edi)
 3. [2026-10-09 – I re designed my schematic and fixed up all the errors. I  studied more came to know about footprints and more. How to use connectors i know now. After a 2.75hrs work I am finally able to bring all th](#2026-10-09-i-re-designed-my-schematic-and-fixed-up-all-the-e)
-4. [2026-10-10 – Work session](#2026-10-10-work-session)
+4. [2026-10-10 – I tried fixing the pcb but I failed.](#2026-10-10-i-tried-fixing-the-pcb-but-i-failed)
 
 ## Design
 
@@ -57,8 +57,14 @@ I re designed my schematic and fixed up all the errors. I  studied more came to 
 
 [Timelapse](https://lookout.hackclub.com/api/media/65c0a7ed-f944-4010-b6a7-a9533b3445ea/video.mp4)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – I tried fixing the pcb but I failed.
 
 **3.4h**
+
+I tried fixing the pcb but I failed.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/a253b5ab87ffe3e3b4088c09472a63d29bf67245f6b84ea8d1bcfbb6c13830f6.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZZsEYvnEPE6BFj1vp6qKGZaQLIjplnQi/83d53bc31f278a9e91f60ea5114a88337b4424ad0aae34d820815cd435d36cfc.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/a9c052c7-6bda-4a89-821f-33bf95749632/video.mp4)
